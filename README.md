@@ -1,4 +1,4 @@
-# 🛰️ Network Monitor — Python Network Connection Logger
+# 🛰️ Network Monitor — Open Port Scanner
 
 A lightweight, cross-platform **Python tool to monitor active TCP/UDP connections**.  
 It displays process names, local and remote addresses, and connection status in a neat table — while also logging detailed events to a file for auditing.
